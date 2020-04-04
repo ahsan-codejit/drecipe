@@ -1,0 +1,2 @@
+# drecipe
+Django recipe app
