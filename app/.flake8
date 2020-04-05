@@ -1,0 +1,6 @@
+[flake8]
+exclude = 
+    mygrations
+    __pychache__,
+    manage.py,
+    settings.py
